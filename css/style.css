@@ -89,6 +89,16 @@ img {
   height: auto;
 }
 
+.main-features {
+  margin-bottom: 130px;
+}
+.main-features__title {
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
 .intro-analytics {
   background-color: #172755;
   padding-top: 50px;
